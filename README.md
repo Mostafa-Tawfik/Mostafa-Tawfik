@@ -10,7 +10,7 @@ My name is Mostafa. a Frontend web developer and UI/UX designer with experience 
 
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Tawfik&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Tawfik&show_icons=true&theme=dark">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Tawfik&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
