@@ -27,7 +27,7 @@ Creadits to Mathieu Ledru
 
 <hr>
 
-<img align="right" height="320px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Tawfik&show_icons=true&theme=swift" />
+<img align="right" height="300px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Tawfik&show_icons=true&theme=swift" />
 
 ### Main Stack: 
 
@@ -38,7 +38,6 @@ Creadits to Mathieu Ledru
 <img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="React" width="45px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/>
 <img align="left" alt="Node" width="45px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"/>
-<img align="left" alt="Express.js" width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXwkfc23PluXFuvDw_j4Mkda9oTH6MLkBsA&usqp=CAU"/>
 
 <br>
 <br>
