@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/pOPigDP.gif" alt="hi">
+  <a href="https://www.mostafatawfik.com/" target="_blank"><img src="https://i.imgur.com/pOPigDP.gif" alt="hi"></a>
 </p>
 
 <!--
@@ -12,12 +12,9 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 Creadits to Mathieu Ledru
 -->
 
-### Hi there 👋,
-
-My name is Mostafa. a Frontend web developer and UI/UX designer with experience in building and designing static and dynamic responsive websites
-
+<p align="center">
 🖥️ My current stack: HTML, CSS, SASS, Javascript, React.
-
+<p align="center">
 📝 Currently learning CS50!
 
 <hr>
@@ -29,8 +26,8 @@ My name is Mostafa. a Frontend web developer and UI/UX designer with experience 
 </p>
 
 <p align='center'>
-<a href="https://twitter.com/Mostafa__Tawfik"><img height="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/m8ustafa-tawfik/"><img height="50" src="https://img.icons8.com/color/96/000000/linkedin.png"></a>
+<a href="https://twitter.com/Mostafa__Tawfik" target="_blank"><img height="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/m8ustafa-tawfik/" target="_blank"><img height="50" src="https://img.icons8.com/color/96/000000/linkedin.png"></a>
 </p>
 
 <p  align="center">
