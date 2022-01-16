@@ -29,6 +29,10 @@ My name is Mostafa. a Frontend web developer and UI/UX designer with experience 
 </p>
 
 <p align='center'>
-<a href="https://twitter.com/Mostafa__Tawfik"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/m8ustafa-tawfik/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/Mostafa__Tawfik"><img height="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/m8ustafa-tawfik/"><img height="50" src="https://img.icons8.com/color/96/000000/linkedin.png"></a>
+</p>
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Mostafa-Tawfik.Mostafa-Tawfik" alt="visitor badge"/>
 </p>
