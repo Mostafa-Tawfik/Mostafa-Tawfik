@@ -49,6 +49,7 @@ Creadits to Mathieu Ledru
 <p align="left">
 <img alt="Visual Studio Code" width="45px" src="https://api.iconify.design/vscode-icons/file-type-vscode.svg" />
 <img alt="Git" width="45px" src="https://api.iconify.design/logos/git-icon.svg"/>
+<img alt="NPM" width="45px" src="https://api.iconify.design/vscode-icons/file-type-npm.svg"/>  
 <img alt="Wordpress" width="45px" src="https://api.iconify.design/bi/wordpress.svg?color=white"/>
 </p>
 
