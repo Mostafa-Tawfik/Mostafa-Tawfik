@@ -2,6 +2,8 @@
   <a href="https://www.mostafatawfik.com/" target="_blank"><img src="https://i.imgur.com/pOPigDP.gif" alt="hi"></a>
 </p>
 
+<br>
+
 <!--
 How to make this gif ?
 I made my with https://codesandbox.io/s/github-profile-2ijk7
@@ -12,7 +14,10 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 Creadits to Mathieu Ledru
 -->
 
-<img align="right" height="250px" alt="GIF" src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611f9c84527a8a139d0489f1943b46318c5e2673b32&rid=giphy.gif&ct=g" />
+<!-- <img align="right" height="250px" alt="GIF" src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611f9c84527a8a139d0489f1943b46318c5e2673b32&rid=giphy.gif&ct=g" /> -->
+<a href="https://app.daily.dev/m8ustafa"><img src="https://api.daily.dev/devcards/985a10b197eb41f3bb6a64de8549c8ac.png?r=r91" align="right" width="250" alt="Mostafa Tawfik's Dev Card"/></a>
+
+<br>
 
 ### I am a Front-End Web Developer and UX/UI Designer
 - 🧗 I try to: Master Frontend
@@ -27,45 +32,42 @@ Creadits to Mathieu Ledru
 
 <hr>
 
-<img align="right" height="300px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Tawfik&show_icons=true&theme=swift" />
-
 ### Main Stack: 
 
-
-<img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="React" width="45px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/>
-<img align="left" alt="React" width="45px" src='https://api.iconify.design/file-icons/nextjs.svg?color=white'/>
-
-<br>
-<br>
+<p align="left">
+<img alt="HTML5" width="45px" src="https://api.iconify.design/vscode-icons/file-type-html.svg" />
+<img alt="CSS3" width="45px" src="https://api.iconify.design/vscode-icons/file-type-css.svg" />
+<img alt="Sass" width="45px" src="https://api.iconify.design/logos/sass.svg" />
+<img alt="JavaScript" width="45px" src="https://api.iconify.design/logos/javascript.svg"/>
+<img alt="React" width="45px" src="https://api.iconify.design/logos/react.svg"/>
+<img alt="Next" width="45px" src='https://api.iconify.design/file-icons/nextjs.svg?color=white'/>
+<img alt="Node" width="45px" src='https://api.iconify.design/logos/nodejs-icon.svg'/>
+</p>
 
 ### Developing Tools: 
 
-<img align="left" alt="Visual Studio Code" width="45px" src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png" />
-<img align="left" alt="Git" width="45px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png"/>
-<img align="left" alt="Wordpress" width="45px" src="https://cdn-icons-png.flaticon.com/512/174/174881.png"/>
-
-<br>
-<br>
+<p align="left">
+<img alt="Visual Studio Code" width="45px" src="https://api.iconify.design/vscode-icons/file-type-vscode.svg" />
+<img alt="Git" width="45px" src="https://api.iconify.design/logos/git-icon.svg"/>
+<img alt="Wordpress" width="45px" src="https://api.iconify.design/bi/wordpress.svg?color=white"/>
+</p>
 
 ### Designing Tools: 
 
-<img align="left" alt="Figma" width="45px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
-<img align="left" alt="AdobeXD" width="45px" src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611129.png?token=exp=1642352593~hmac=a4383eb01aa889853eb78310d41429fd"/>
-<img align="left" alt="PhotoShop" width="45px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"/>
-<img align="left" alt="GIMP" width="45px" src="https://cdn2.iconfinder.com/data/icons/humano2/128x128/apps/gimp.png"/>
-
-<br>
-<br>
+<p align="left">
+<img alt="Figma" width="45px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
+<img alt="AdobeXD" width="45px" src='https://api.iconify.design/simple-icons/adobexd.svg?color=purple'/>
+<img alt="PhotoShop" width="45px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"/>
+<img alt="GIMP" width="45px" src="https://cdn2.iconfinder.com/data/icons/humano2/128x128/apps/gimp.png"/>
+</p>
 
 <hr>
 
 <br>
 
 <p align="center">
+  <img height="300px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Tawfik&show_icons=true&theme=swift" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mostafa-tawfik&show_icons=true&theme=swift&count_private=true">
 </p>
 
