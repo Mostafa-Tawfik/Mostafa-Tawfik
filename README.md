@@ -15,7 +15,7 @@ Creadits to Mathieu Ledru
 -->
 
 <!-- <img align="right" height="250px" alt="GIF" src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611f9c84527a8a139d0489f1943b46318c5e2673b32&rid=giphy.gif&ct=g" /> -->
-<a href="https://app.daily.dev/m8ustafa"><img src="https://api.daily.dev/devcards/985a10b197eb41f3bb6a64de8549c8ac.png?r=r91" align="right" width="250" alt="Mostafa Tawfik's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Mostafa-Tawfik/Mostafa-Tawfik/blob/main/devcard.svg" align="right" width="250" alt="Mostafa Tawfik's Dev Card"/></a>
 
 <br>
 
