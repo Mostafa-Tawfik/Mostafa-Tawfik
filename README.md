@@ -16,11 +16,15 @@ Creadits to Mathieu Ledru
 
 <!-- <img align="right" height="250px" alt="GIF" src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611f9c84527a8a139d0489f1943b46318c5e2673b32&rid=giphy.gif&ct=g" /> -->
 <!-- https://app.daily.dev/DailyDevTips -->
-<a href="https://app.daily.dev/m8ustafa"><img src="https://github.com/Mostafa-Tawfik/Mostafa-Tawfik/blob/main/devcard.svg" align="right" width="300" alt="Mostafa Tawfik's Dev Card"/></a>
 
-<br>
+<div height="300px">
 
-### A Front-End Web Developer and UX/UI Designer
+  <a href="https://app.daily.dev/m8ustafa">
+    <img src="https://github.com/Mostafa-Tawfik/Mostafa-Tawfik/blob/main/devcard.svg" align="right" width="300" alt="Mostafa Tawfik's Dev Card"/>
+  </a>
+  
+  ### A Front-End Web Developer and UX/UI Designer
+  
 - 🧗 I try to: Master Frontend
 - 🥅 2022 Goals: Start and Master Three.js
 - 🌱 I’m currently learning CS50 & Google UX Program.
@@ -29,7 +33,7 @@ Creadits to Mathieu Ledru
 - 👯 I’m looking to collaborate with other Developers
 - 📬 How to reach me: www.MostafaTawfik.com
 
-<br>
+</div>
 
 <hr>
 
@@ -70,23 +74,32 @@ Creadits to Mathieu Ledru
 
 
 <p align="center">
+
   <a href="https://github.com/Mostafa-Tawfik">
     <img height="200px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Tawfik&show_icons=true&theme=swift" />
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=mostafa-tawfik&show_icons=true&theme=swift&count_private=true">
   </a>
+  
 </p>
 
 <hr>
 
 <p align='center'>
+
   <a href="https://twitter.com/Mostafa__Tawfik" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/m8ustafa-tawfik/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mostafatawfik.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
   </a>
+  
 </p>
 
 <p align="center">
+
   <img src="https://visitor-badge.glitch.me/badge?page_id=Mostafa-Tawfik.Mostafa-Tawfik" alt="visitor badge"/>
+  
 </p>
