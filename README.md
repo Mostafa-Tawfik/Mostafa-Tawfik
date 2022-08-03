@@ -36,31 +36,37 @@ Creadits to Mathieu Ledru
 ### Main Stack: 
 
 <p align="left">
-<img alt="HTML5" width="45px" src="https://api.iconify.design/vscode-icons/file-type-html.svg" />
-<img alt="CSS3" width="45px" src="https://api.iconify.design/vscode-icons/file-type-css.svg" />
-<img alt="Sass" width="45px" src="https://api.iconify.design/logos/sass.svg" />
-<img alt="JavaScript" width="45px" src="https://api.iconify.design/logos/javascript.svg"/>
-<img alt="React" width="45px" src="https://api.iconify.design/logos/react.svg"/>
-<img alt="Next" width="45px" src='https://api.iconify.design/file-icons/nextjs.svg?color=white'/>
-<img alt="Node" width="45px" src='https://api.iconify.design/logos/nodejs-icon.svg'/>
+<img alt="HTML5" width="45px" height="45px" src="https://api.iconify.design/vscode-icons/file-type-html.svg" />
+<img alt="CSS3" width="45px" height="45px" src="https://api.iconify.design/vscode-icons/file-type-css.svg" />
+<img alt="JavaScript" width="45px" height="45px" src="https://api.iconify.design/logos/javascript.svg"/>
+<img alt="Sass" width="45px" height="45px" src="https://api.iconify.design/logos/sass.svg" />
+<img alt="Tailwind" width="45px" height="45px" src="https://api.iconify.design/logos/tailwindcss-icon.svg" />
+<img alt="React" width="45px" height="45px" src="https://api.iconify.design/logos/react.svg"/>
+<img alt="Redux" width="45px" height="45px" src="https://api.iconify.design/logos/redux.svg"/>
+<img alt="React-Query" width="45px" height="45px" src="https://api.iconify.design/logos/react-query-icon.svg"/>
+<img alt="Material UI" width="45px" src="https://api.iconify.design/logos/material-ui.svg"/>
+<img alt="Framer Motion" width="45px" height="45px" src="https://api.iconify.design/logos/framer.svg"/>
+<img alt="Next" width="45px" height="45px" src='https://api.iconify.design/file-icons/nextjs.svg?color=white'/>
+<img alt="Node" width="45px" height="45px" src='https://api.iconify.design/logos/nodejs-icon.svg'/>
+<img alt="Firebase" width="45px" height="45px" src='https://api.iconify.design/logos/firebase.svg'/>
 </p>
 
 ### Developing Tools: 
 
 <p align="left">
-<img alt="Visual Studio Code" width="45px" src="https://api.iconify.design/vscode-icons/file-type-vscode.svg" />
-<img alt="Git" width="45px" src="https://api.iconify.design/logos/git-icon.svg"/>
-<img alt="NPM" width="45px" src="https://api.iconify.design/vscode-icons/file-type-npm.svg"/>  
-<img alt="Wordpress" width="45px" src="https://api.iconify.design/bi/wordpress.svg?color=white"/>
+<img alt="Visual Studio Code" width="45px" height="45px" src="https://api.iconify.design/vscode-icons/file-type-vscode.svg" />
+<img alt="Git" width="45px" height="45px" src="https://api.iconify.design/logos/git-icon.svg"/>
+<img alt="NPM" width="45px" height="45px" src="https://api.iconify.design/vscode-icons/file-type-npm.svg"/>  
+<img alt="Wordpress" width="45px" height="45px" src="https://api.iconify.design/bi/wordpress.svg?color=white"/>
 </p>
 
 ### Designing Tools: 
 
 <p align="left">
-<img alt="Figma" width="45px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
-<img alt="AdobeXD" width="45px" src='https://api.iconify.design/simple-icons/adobexd.svg?color=purple'/>
-<img alt="PhotoShop" width="45px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"/>
-<img alt="GIMP" width="45px" src="https://cdn2.iconfinder.com/data/icons/humano2/128x128/apps/gimp.png"/>
+<img alt="Figma" width="45px" height="45px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
+<img alt="AdobeXD" width="45px" height="45px" src='https://api.iconify.design/simple-icons/adobexd.svg?color=purple'/>
+<img alt="PhotoShop" width="45px" height="45px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"/>
+<img alt="GIMP" width="45px" height="45px" src="https://cdn2.iconfinder.com/data/icons/humano2/128x128/apps/gimp.png"/>
 </p>
 
 <hr>
