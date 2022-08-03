@@ -23,6 +23,8 @@ Creadits to Mathieu Ledru
     <img src="https://github.com/Mostafa-Tawfik/Mostafa-Tawfik/blob/main/devcard.svg" align="right" width="300" alt="Mostafa Tawfik's Dev Card"/>
   </a>
   
+  <br>
+  
   ### A Front-End Web Developer and UX/UI Designer
   
 - 🧗 I try to: Master Frontend
@@ -72,20 +74,16 @@ Creadits to Mathieu Ledru
 
 ### GitHub Analytics:
 
-
 <p align="center">
-
   <a href="https://github.com/Mostafa-Tawfik">
     <img height="200px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Tawfik&show_icons=true&theme=swift" />
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=mostafa-tawfik&show_icons=true&theme=swift&count_private=true">
-  </a>
-  
+  </a>  
 </p>
 
 <hr>
 
 <p align='center'>
-
   <a href="https://twitter.com/Mostafa__Tawfik" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>&nbsp;&nbsp;
@@ -94,12 +92,9 @@ Creadits to Mathieu Ledru
   </a>&nbsp;&nbsp;
   <a href="https://www.mostafatawfik.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
-  </a>
-  
+  </a>  
 </p>
 
 <p align="center">
-
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Mostafa-Tawfik.Mostafa-Tawfik" alt="visitor badge"/>
-  
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Mostafa-Tawfik.Mostafa-Tawfik" alt="visitor badge"/>  
 </p>
