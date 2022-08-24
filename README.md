@@ -27,10 +27,9 @@ Creadits to Mathieu Ledru
   
   ### A Front-End Web Developer and UX/UI Designer
   
-- 🧗 I try to: Master Frontend
+- 🧗 I try to: Become a professional Front-End Engineer
 - 🥅 2022 Goals: Start and Master Three.js
 - 🌱 I’m currently learning CS50 & Google UX Program.
-- 🔭 I’m currently working on personal projects
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate with other Developers
 - 📬 How to reach me: www.MostafaTawfik.com
