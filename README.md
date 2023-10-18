@@ -92,6 +92,8 @@ Creadits to Mathieu Ledru
   </a>  
 </p>
 
+<!-- vistor counter
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Mostafa-Tawfik.Mostafa-Tawfik" alt="visitor badge"/>  
 </p>
+-->
